@@ -9,7 +9,7 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:cricbuzz-152496@pakistan-mens-cricket-calendar
-DTSTAMP:20260723T084317Z
+DTSTAMP:20260723T142853Z
 DTSTART:20260725T140000Z
 DTEND:20260729T210000Z
 SUMMARY:West Indies vs Pakistan - 1st Test
@@ -24,7 +24,7 @@ URL:https://www.cricbuzz.com/live-cricket-scores/152496
 END:VEVENT
 BEGIN:VEVENT
 UID:cricbuzz-152507@pakistan-mens-cricket-calendar
-DTSTAMP:20260723T084317Z
+DTSTAMP:20260723T142853Z
 DTSTART:20260802T140000Z
 DTEND:20260806T210000Z
 SUMMARY:West Indies vs Pakistan - 2nd Test
@@ -39,7 +39,7 @@ URL:https://www.cricbuzz.com/live-cricket-scores/152507
 END:VEVENT
 BEGIN:VEVENT
 UID:cricbuzz-129579@pakistan-mens-cricket-calendar
-DTSTAMP:20260723T084317Z
+DTSTAMP:20260723T142853Z
 DTSTART:20260819T100000Z
 DTEND:20260823T170000Z
 SUMMARY:England vs Pakistan - 1st Test
@@ -54,7 +54,7 @@ URL:https://www.cricbuzz.com/live-cricket-scores/129579
 END:VEVENT
 BEGIN:VEVENT
 UID:cricbuzz-129585@pakistan-mens-cricket-calendar
-DTSTAMP:20260723T084317Z
+DTSTAMP:20260723T142853Z
 DTSTART:20260827T100000Z
 DTEND:20260831T170000Z
 SUMMARY:England vs Pakistan - 2nd Test
@@ -69,7 +69,7 @@ URL:https://www.cricbuzz.com/live-cricket-scores/129585
 END:VEVENT
 BEGIN:VEVENT
 UID:cricbuzz-129596@pakistan-mens-cricket-calendar
-DTSTAMP:20260723T084317Z
+DTSTAMP:20260723T142853Z
 DTSTART:20260909T100000Z
 DTEND:20260913T170000Z
 SUMMARY:England vs Pakistan - 3rd Test
@@ -81,5 +81,80 @@ TRANSP:TRANSPARENT
 CATEGORIES:Cricket,Pakistan
 LOCATION:Edgbaston\, Birmingham
 URL:https://www.cricbuzz.com/live-cricket-scores/129596
+END:VEVENT
+BEGIN:VEVENT
+UID:cricbuzz-168653@pakistan-mens-cricket-calendar
+DTSTAMP:20260723T142853Z
+DTSTART:20270515T100000Z
+DTEND:20270515T180000Z
+SUMMARY:England vs Pakistan - 1st ODI
+DESCRIPTION:Pakistan tour of England 2027\nFormat: ODI\nStatus: Match start
+ s at May 15\, 10:00 GMT\nVenue: The Rose Bowl\, Southampton\nSource: https
+ ://www.cricbuzz.com/live-cricket-scores/168653
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Cricket,Pakistan
+LOCATION:The Rose Bowl\, Southampton
+URL:https://www.cricbuzz.com/live-cricket-scores/168653
+END:VEVENT
+BEGIN:VEVENT
+UID:cricbuzz-168673@pakistan-mens-cricket-calendar
+DTSTAMP:20260723T142853Z
+DTSTART:20270519T120000Z
+DTEND:20270519T200000Z
+SUMMARY:England vs Pakistan - 2nd ODI
+DESCRIPTION:Pakistan tour of England 2027\nFormat: ODI\nStatus: Match start
+ s at May 19\, 12:00 GMT\nVenue: Emirates Old Trafford\, Manchester\nSource
+ : https://www.cricbuzz.com/live-cricket-scores/168673
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Cricket,Pakistan
+LOCATION:Emirates Old Trafford\, Manchester
+URL:https://www.cricbuzz.com/live-cricket-scores/168673
+END:VEVENT
+BEGIN:VEVENT
+UID:cricbuzz-168681@pakistan-mens-cricket-calendar
+DTSTAMP:20260723T142853Z
+DTSTART:20270521T100000Z
+DTEND:20270521T180000Z
+SUMMARY:England vs Pakistan - 3rd ODI
+DESCRIPTION:Pakistan tour of England 2027\nFormat: ODI\nStatus: Match start
+ s at May 21\, 10:00 GMT\nVenue: Headingley\, Leeds\nSource: https://www.cr
+ icbuzz.com/live-cricket-scores/168681
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Cricket,Pakistan
+LOCATION:Headingley\, Leeds
+URL:https://www.cricbuzz.com/live-cricket-scores/168681
+END:VEVENT
+BEGIN:VEVENT
+UID:cricbuzz-168687@pakistan-mens-cricket-calendar
+DTSTAMP:20260723T142853Z
+DTSTART:20270523T100000Z
+DTEND:20270523T180000Z
+SUMMARY:England vs Pakistan - 4th ODI
+DESCRIPTION:Pakistan tour of England 2027\nFormat: ODI\nStatus: Match start
+ s at May 23\, 10:00 GMT\nVenue: Riverside Ground\, Chester-le-Street\nSour
+ ce: https://www.cricbuzz.com/live-cricket-scores/168687
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Cricket,Pakistan
+LOCATION:Riverside Ground\, Chester-le-Street
+URL:https://www.cricbuzz.com/live-cricket-scores/168687
+END:VEVENT
+BEGIN:VEVENT
+UID:cricbuzz-168691@pakistan-mens-cricket-calendar
+DTSTAMP:20260723T142853Z
+DTSTART:20270526T073000Z
+DTEND:20270526T153000Z
+SUMMARY:England vs Pakistan - 5th ODI
+DESCRIPTION:Pakistan tour of England 2027\nFormat: ODI\nStatus: Match start
+ s at May 26\, 07:30 GMT\nVenue: Sophia Gardens\, Cardiff\nSource: https://
+ www.cricbuzz.com/live-cricket-scores/168691
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Cricket,Pakistan
+LOCATION:Sophia Gardens\, Cardiff
+URL:https://www.cricbuzz.com/live-cricket-scores/168691
 END:VEVENT
 END:VCALENDAR
