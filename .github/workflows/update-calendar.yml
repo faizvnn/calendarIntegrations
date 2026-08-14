@@ -35,6 +35,8 @@ jobs:
           fi
 
       - name: Publish Pages feed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           publish_dir="$(mktemp -d)"
           mkdir -p "$publish_dir/dist"
