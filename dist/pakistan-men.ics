@@ -9,13 +9,13 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:cricbuzz-129579@pakistan-mens-cricket-calendar
-DTSTAMP:20260820T130907Z
+DTSTAMP:20260820T185726Z
 DTSTART:20260819T100000Z
 DTEND:20260823T170000Z
 SUMMARY:Pakistan vs England - 1st Test
-DESCRIPTION:Pakistan tour of England 2026\nFormat: Test\nStatus: Day 2: Mat
- ch delayed due to wet outfield - England trail by 59 runs\nVenue: Headingl
- ey\, Leeds\nSource: https://www.cricbuzz.com/live-cricket-scores/129579
+DESCRIPTION:Pakistan tour of England 2026\nFormat: Test\nStatus: Day 2: Stu
+ mps - England lead by 195 runs\nVenue: Headingley\, Leeds\nSource: https:/
+ /www.cricbuzz.com/live-cricket-scores/129579
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:Cricket,Pakistan
@@ -24,7 +24,7 @@ URL:https://www.cricbuzz.com/live-cricket-scores/129579
 END:VEVENT
 BEGIN:VEVENT
 UID:cricbuzz-129585@pakistan-mens-cricket-calendar
-DTSTAMP:20260820T130907Z
+DTSTAMP:20260820T185726Z
 DTSTART:20260827T100000Z
 DTEND:20260831T170000Z
 SUMMARY:England vs Pakistan - 2nd Test
@@ -39,7 +39,7 @@ URL:https://www.cricbuzz.com/live-cricket-scores/129585
 END:VEVENT
 BEGIN:VEVENT
 UID:cricbuzz-129596@pakistan-mens-cricket-calendar
-DTSTAMP:20260820T130907Z
+DTSTAMP:20260820T185726Z
 DTSTART:20260909T100000Z
 DTEND:20260913T170000Z
 SUMMARY:England vs Pakistan - 3rd Test
@@ -54,7 +54,7 @@ URL:https://www.cricbuzz.com/live-cricket-scores/129596
 END:VEVENT
 BEGIN:VEVENT
 UID:cricbuzz-170687@pakistan-mens-cricket-calendar
-DTSTAMP:20260820T130907Z
+DTSTAMP:20260820T185726Z
 DTSTART:20261009T143000Z
 DTEND:20261009T180000Z
 SUMMARY:Pakistan vs Sri Lanka - 1st T20I
@@ -69,7 +69,7 @@ URL:https://www.cricbuzz.com/live-cricket-scores/170687
 END:VEVENT
 BEGIN:VEVENT
 UID:cricbuzz-170690@pakistan-mens-cricket-calendar
-DTSTAMP:20260820T130907Z
+DTSTAMP:20260820T185726Z
 DTSTART:20261011T143000Z
 DTEND:20261011T180000Z
 SUMMARY:Pakistan vs Sri Lanka - 2nd T20I
@@ -84,7 +84,7 @@ URL:https://www.cricbuzz.com/live-cricket-scores/170690
 END:VEVENT
 BEGIN:VEVENT
 UID:cricbuzz-170697@pakistan-mens-cricket-calendar
-DTSTAMP:20260820T130907Z
+DTSTAMP:20260820T185726Z
 DTSTART:20261013T143000Z
 DTEND:20261013T180000Z
 SUMMARY:Pakistan vs Sri Lanka - 3rd T20I
@@ -99,7 +99,7 @@ URL:https://www.cricbuzz.com/live-cricket-scores/170697
 END:VEVENT
 BEGIN:VEVENT
 UID:cricbuzz-170720@pakistan-mens-cricket-calendar
-DTSTAMP:20260820T130907Z
+DTSTAMP:20260820T185726Z
 DTSTART:20261018T090000Z
 DTEND:20261018T170000Z
 SUMMARY:Pakistan vs Sri Lanka - 1st Match
@@ -114,7 +114,7 @@ URL:https://www.cricbuzz.com/live-cricket-scores/170720
 END:VEVENT
 BEGIN:VEVENT
 UID:cricbuzz-170723@pakistan-mens-cricket-calendar
-DTSTAMP:20260820T130907Z
+DTSTAMP:20260820T185726Z
 DTSTART:20261020T090000Z
 DTEND:20261020T170000Z
 SUMMARY:Pakistan vs England - 2nd Match
@@ -129,7 +129,7 @@ URL:https://www.cricbuzz.com/live-cricket-scores/170723
 END:VEVENT
 BEGIN:VEVENT
 UID:cricbuzz-170733@pakistan-mens-cricket-calendar
-DTSTAMP:20260820T130907Z
+DTSTAMP:20260820T185726Z
 DTSTART:20261025T090000Z
 DTEND:20261025T170000Z
 SUMMARY:Pakistan vs England - 4th Match
@@ -144,7 +144,7 @@ URL:https://www.cricbuzz.com/live-cricket-scores/170733
 END:VEVENT
 BEGIN:VEVENT
 UID:cricbuzz-170737@pakistan-mens-cricket-calendar
-DTSTAMP:20260820T130907Z
+DTSTAMP:20260820T185726Z
 DTSTART:20261027T090000Z
 DTEND:20261027T170000Z
 SUMMARY:Pakistan vs Sri Lanka - 5th Match
@@ -159,7 +159,7 @@ URL:https://www.cricbuzz.com/live-cricket-scores/170737
 END:VEVENT
 BEGIN:VEVENT
 UID:cricbuzz-170703@pakistan-mens-cricket-calendar
-DTSTAMP:20260820T130907Z
+DTSTAMP:20260820T185726Z
 DTSTART:20261109T050000Z
 DTEND:20261113T120000Z
 SUMMARY:Pakistan vs Sri Lanka - 1st Test
@@ -174,7 +174,7 @@ URL:https://www.cricbuzz.com/live-cricket-scores/170703
 END:VEVENT
 BEGIN:VEVENT
 UID:cricbuzz-170713@pakistan-mens-cricket-calendar
-DTSTAMP:20260820T130907Z
+DTSTAMP:20260820T185726Z
 DTSTART:20261117T050000Z
 DTEND:20261121T120000Z
 SUMMARY:Pakistan vs Sri Lanka - 2nd Test
@@ -189,7 +189,7 @@ URL:https://www.cricbuzz.com/live-cricket-scores/170713
 END:VEVENT
 BEGIN:VEVENT
 UID:cricbuzz-168653@pakistan-mens-cricket-calendar
-DTSTAMP:20260820T130907Z
+DTSTAMP:20260820T185726Z
 DTSTART:20270515T100000Z
 DTEND:20270515T180000Z
 SUMMARY:England vs Pakistan - 1st ODI
@@ -204,7 +204,7 @@ URL:https://www.cricbuzz.com/live-cricket-scores/168653
 END:VEVENT
 BEGIN:VEVENT
 UID:cricbuzz-168673@pakistan-mens-cricket-calendar
-DTSTAMP:20260820T130907Z
+DTSTAMP:20260820T185726Z
 DTSTART:20270519T120000Z
 DTEND:20270519T200000Z
 SUMMARY:England vs Pakistan - 2nd ODI
@@ -219,7 +219,7 @@ URL:https://www.cricbuzz.com/live-cricket-scores/168673
 END:VEVENT
 BEGIN:VEVENT
 UID:cricbuzz-168681@pakistan-mens-cricket-calendar
-DTSTAMP:20260820T130907Z
+DTSTAMP:20260820T185726Z
 DTSTART:20270521T100000Z
 DTEND:20270521T180000Z
 SUMMARY:England vs Pakistan - 3rd ODI
@@ -234,7 +234,7 @@ URL:https://www.cricbuzz.com/live-cricket-scores/168681
 END:VEVENT
 BEGIN:VEVENT
 UID:cricbuzz-168687@pakistan-mens-cricket-calendar
-DTSTAMP:20260820T130907Z
+DTSTAMP:20260820T185726Z
 DTSTART:20270523T100000Z
 DTEND:20270523T180000Z
 SUMMARY:England vs Pakistan - 4th ODI
@@ -249,7 +249,7 @@ URL:https://www.cricbuzz.com/live-cricket-scores/168687
 END:VEVENT
 BEGIN:VEVENT
 UID:cricbuzz-168691@pakistan-mens-cricket-calendar
-DTSTAMP:20260820T130907Z
+DTSTAMP:20260820T185726Z
 DTSTART:20270526T120000Z
 DTEND:20270526T200000Z
 SUMMARY:England vs Pakistan - 5th ODI
